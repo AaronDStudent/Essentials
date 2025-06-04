@@ -94,3 +94,7 @@ DAGV1700/AdventureGame/Library/
 /DAGV1700/AdventureGame/Logs
 
 DAGV1700/AdventureGame/obj/Debug/
+
+*.index
+
+DAGV1700/AdventureGame/UserSettings/
